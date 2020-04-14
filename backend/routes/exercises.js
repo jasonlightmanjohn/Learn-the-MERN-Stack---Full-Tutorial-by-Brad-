@@ -23,7 +23,7 @@ router.route('/add').post((req, res) => {
     });
 
     newExercise.save() // save the new user to database
-        .then(()=> res.json('Exercise added!'))// confirmation msg
+        .then(() => res.json('Exercise added!'))// confirmation msg
         .catch(err => res.status(400).json('Error: ' + err));
 });
 

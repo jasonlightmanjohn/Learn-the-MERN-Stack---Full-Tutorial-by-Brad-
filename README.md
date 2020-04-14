@@ -1,3 +1,14 @@
+## Few words form me
+This code base on completed by me following the Learn the MERN Stack - Full Tutorial (MongoDB, Express, React, Node.js) on youtube. 
+  * < https://youtu.be/7CqJlxBYj-M >
+  * document version of the tutorial @ https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1
+  
+It took me 2 weeks and go over the tutorial twice to complete it successfully. Don't judge your ability too early, it take time for new knowledge to sink in, but learn by doing is the perfect way to get a taste of a new skill. if I can do this you can do this too. 
+
+if you have any question and road block, leave me a message down below, we can firgure out together.
+
+##
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
